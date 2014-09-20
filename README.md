@@ -7,4 +7,4 @@ This code is part of the semester course [CODING GESTALT – GESTALTING CODE](ht
 <p>
 The Font *UniversCE-Medium-32.vlw* must be put into a data folder before starting the programme.
 
-> Here comes the idea behinD my code…
+> When running the code in processing a *textHolder* will appear. After clicking the mousse the text will alter randomly.
